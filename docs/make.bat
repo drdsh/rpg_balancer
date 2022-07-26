@@ -1,3 +1,4 @@
+# SPDX-FileCopyrightText: 2022 Daniel S. Haag
 # SPDX-FileCopyrightText: 2022 spdx
 #
 # SPDX-License-Identifier: MIT
