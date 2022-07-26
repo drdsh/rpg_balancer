@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: rpg_balancer
+Upstream-Contact: Daniel S. Haag <mail@d-haag.de>
+Source: https://github.com/drdsh/rpg_balancer
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
